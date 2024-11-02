@@ -1,0 +1,931 @@
+[03-Jan-2019 09:25:10 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 09:25:10 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 09:25:13 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 09:25:13 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 09:25:14 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 09:25:14 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 09:25:15 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 09:25:15 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 09:57:07 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 09:57:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 09:57:16 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 09:57:16 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 09:58:58 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 09:58:58 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 10:01:00 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[03-Jan-2019 10:01:00 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 10:01:00 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 10:01:39 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 10:01:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 10:01:49 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 10:01:49 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 10:01:52 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 10:01:52 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 10:02:35 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 10:02:35 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 10:03:27 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 10:03:27 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 10:04:42 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 10:04:42 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 10:05:42 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[03-Jan-2019 10:05:42 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 10:05:42 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 10:18:44 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 10:18:44 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 10:18:47 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 10:18:47 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 10:29:04 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[03-Jan-2019 10:29:04 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 10:29:04 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 10:29:20 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 10:29:20 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 10:29:22 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 10:29:22 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 10:29:23 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 10:29:23 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 10:29:49 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 10:29:49 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 10:29:50 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 10:29:50 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 10:29:51 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 10:29:51 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 10:29:57 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 10:29:57 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 10:29:59 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 10:29:59 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 10:39:44 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[03-Jan-2019 10:39:44 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 10:39:44 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 10:40:19 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[03-Jan-2019 10:40:19 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 10:40:19 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 10:41:50 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[03-Jan-2019 10:41:50 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 10:41:50 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 10:41:50 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[03-Jan-2019 10:41:50 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 10:41:50 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 23
+[03-Jan-2019 10:41:50 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 10:46:16 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 10:46:16 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 10:46:32 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 10:46:32 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 10:46:34 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 10:46:34 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 10:46:36 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 10:46:36 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 10:46:37 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 10:46:37 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 13:44:35 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 13:44:35 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 13:44:37 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 13:44:37 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 13:49:52 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 13:49:52 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 13:49:58 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 13:49:58 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 13:50:16 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 13:50:16 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 13:53:17 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 13:53:17 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 13:55:54 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 13:55:54 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 14:05:36 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 14:05:36 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 14:06:01 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 14:06:01 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 14:06:16 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 14:06:16 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 14:07:30 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 14:07:30 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 14:07:47 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 14:07:47 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 14:28:17 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 14:28:17 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 14:31:29 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 14:31:29 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 14:31:30 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 14:31:30 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 14:32:32 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 14:32:32 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 14:34:24 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 14:34:24 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 14:34:27 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 14:34:27 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 14:34:52 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 14:34:52 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 14:35:04 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 14:35:04 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 14:35:10 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 14:35:10 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 14:38:29 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 14:38:29 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 14:39:00 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 14:39:00 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 14:41:32 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 14:41:32 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 14:45:07 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 14:45:07 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 14:45:21 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 14:45:21 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 14:45:32 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 14:45:32 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 14:45:55 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 14:45:55 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 14:46:17 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 14:46:17 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 15:11:27 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 15:11:27 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 15:28:36 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[03-Jan-2019 15:28:36 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 15:28:36 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 15:28:49 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 15:28:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 15:28:55 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 15:28:55 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 15:29:12 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 15:29:12 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 15:29:31 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 15:29:31 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 15:30:10 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 15:30:10 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 15:30:47 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 15:30:47 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 15:30:51 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 15:30:51 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 15:31:27 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 15:31:27 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 15:32:01 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 15:32:01 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 15:32:04 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 15:32:04 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 15:32:39 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 15:32:39 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 15:32:50 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 15:32:50 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 15:34:58 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 15:34:58 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 15:35:06 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 15:35:06 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 15:35:10 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 15:35:10 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 15:35:16 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 15:35:16 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 15:35:22 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 15:35:22 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 15:35:38 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 15:35:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 15:36:03 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 15:36:03 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 15:36:10 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 15:36:10 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 15:37:22 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 15:37:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 15:37:23 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 15:37:23 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 15:37:24 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 15:37:24 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 15:37:24 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 15:37:24 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 15:37:25 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 15:37:25 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 15:37:25 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 15:37:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 15:37:26 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 15:37:26 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 15:37:26 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 15:37:26 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 15:37:27 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 15:37:27 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 15:37:28 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 15:37:28 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 15:37:28 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 15:37:28 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 15:56:25 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 15:56:25 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 16:39:48 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[03-Jan-2019 16:39:48 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 16:39:48 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 16:40:02 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 16:40:02 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 16:45:22 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 16:45:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 16:45:30 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 16:45:30 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 16:58:56 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 16:58:56 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 17:07:01 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[03-Jan-2019 17:07:01 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 17:07:01 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 17:07:13 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 17:07:13 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 17:07:18 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 17:07:18 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 17:07:23 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 17:07:23 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 17:37:46 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[03-Jan-2019 17:37:46 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 17:37:46 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 17:37:57 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 17:37:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 17:38:01 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 17:38:01 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 17:39:21 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 17:39:21 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 17:42:13 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 17:42:13 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 17:42:13 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 17:42:13 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 17:42:56 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 17:42:56 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 17:43:11 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 17:43:11 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 17:44:07 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 17:44:07 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 17:44:28 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 17:44:28 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 17:44:38 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 17:44:38 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 17:45:39 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 17:45:39 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 17:46:33 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 17:46:33 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 17:46:51 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 17:46:51 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 17:47:24 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 17:47:24 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 17:47:34 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 17:47:34 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 17:47:39 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 17:47:39 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 17:48:26 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 17:48:26 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 17:48:50 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 17:48:50 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 17:51:02 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 17:51:02 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 17:52:01 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 17:52:01 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 17:52:59 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 17:52:59 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 17:53:11 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 17:53:11 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 17:53:31 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 17:53:31 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 18:05:18 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[03-Jan-2019 18:05:18 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 18:05:18 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 18:05:32 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 18:05:32 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 18:05:46 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 18:05:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 18:05:50 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 18:05:50 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 18:05:56 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 18:05:56 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 18:06:15 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 18:06:15 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 18:06:25 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 18:06:25 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 18:08:21 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 18:08:21 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 18:21:50 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 18:21:50 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 18:22:44 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 18:22:44 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 18:23:05 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 18:23:05 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 18:23:54 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 18:23:54 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 18:25:04 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 18:25:04 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 18:46:58 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 18:46:58 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 18:47:34 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 18:47:34 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 18:47:35 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 18:47:35 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 18:47:51 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 18:47:51 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 18:49:41 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 18:49:41 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 18:51:26 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 18:51:26 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 18:51:45 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 18:51:45 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 18:53:15 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 18:53:15 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 18:53:15 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 18:53:15 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 18:53:26 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 18:53:26 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 18:55:43 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 18:55:43 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 19:17:05 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 19:17:05 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 19:17:07 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 19:17:07 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 19:36:14 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 19:36:14 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 19:37:47 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 19:37:47 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 19:46:39 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 19:46:39 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 19:49:44 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 19:49:44 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 19:50:00 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 19:50:00 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 19:51:02 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 19:51:02 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 19:51:20 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 19:51:20 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 20:18:33 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[03-Jan-2019 20:18:33 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 20:18:33 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 20:18:43 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 20:18:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 20:18:48 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 20:18:48 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 20:18:55 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 20:18:55 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 20:19:04 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 20:19:04 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 20:19:37 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 20:19:37 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 20:19:44 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 20:19:44 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 20:19:48 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 20:19:48 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 20:19:56 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 20:19:56 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 20:20:12 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 20:20:12 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 20:20:37 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 20:20:37 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 20:20:45 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 20:20:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 20:20:51 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 20:20:51 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 20:20:56 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 20:20:56 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 20:29:52 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[03-Jan-2019 20:29:52 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 20:29:52 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 20:30:04 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 20:30:04 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 20:30:07 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 20:30:07 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 20:31:46 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 20:31:46 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 20:32:28 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 20:32:28 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 20:45:47 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 20:45:47 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 21:30:00 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[03-Jan-2019 21:30:00 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 21:30:00 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 21:30:11 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 21:30:11 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 21:30:16 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 21:30:16 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 21:33:23 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 21:33:23 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 21:33:35 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 21:33:35 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 21:33:50 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 21:33:50 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 21:34:05 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 21:34:05 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 21:34:23 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[03-Jan-2019 21:34:23 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[03-Jan-2019 21:34:24 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[03-Jan-2019 21:34:24 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[03-Jan-2019 21:34:25 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 21:34:25 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[03-Jan-2019 21:34:26 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 21:34:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 21:35:22 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[03-Jan-2019 21:35:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[03-Jan-2019 21:35:27 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[03-Jan-2019 21:35:27 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 04:45:07 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[04-Jan-2019 04:45:07 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 04:45:07 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 04:45:24 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[04-Jan-2019 04:45:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[04-Jan-2019 04:45:29 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 04:45:29 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 04:45:37 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 04:45:37 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 04:45:43 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 04:45:43 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 04:45:48 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 04:45:48 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 04:46:01 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 04:46:01 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 07:00:22 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[04-Jan-2019 07:00:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[04-Jan-2019 07:00:27 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 07:00:27 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 07:00:33 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[04-Jan-2019 07:00:33 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[04-Jan-2019 07:00:43 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 07:00:43 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 07:00:50 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 07:00:50 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 07:02:06 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 07:02:06 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 07:45:39 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[04-Jan-2019 07:45:39 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 07:45:39 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 07:45:52 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[04-Jan-2019 07:45:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[04-Jan-2019 07:45:59 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 07:45:59 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 07:48:36 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 07:48:36 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 07:48:51 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 07:48:51 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 07:48:56 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 07:48:56 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 07:49:05 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[04-Jan-2019 07:49:05 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[04-Jan-2019 07:49:43 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 07:49:43 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 07:52:49 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[04-Jan-2019 07:52:49 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[04-Jan-2019 07:53:01 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 07:53:01 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 07:53:04 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 07:53:04 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 07:53:22 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[04-Jan-2019 07:53:22 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[04-Jan-2019 07:53:51 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[04-Jan-2019 07:53:51 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[04-Jan-2019 07:53:51 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 23
+[04-Jan-2019 07:53:51 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[04-Jan-2019 07:53:59 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[04-Jan-2019 07:53:59 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 07:53:59 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 07:54:23 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[04-Jan-2019 07:54:23 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[04-Jan-2019 07:54:23 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[04-Jan-2019 09:42:27 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[04-Jan-2019 09:42:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[04-Jan-2019 09:42:50 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 09:42:50 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 09:42:56 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 09:42:56 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 09:42:59 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[04-Jan-2019 09:42:59 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[04-Jan-2019 09:54:06 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[04-Jan-2019 09:54:06 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 09:54:06 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 09:54:15 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[04-Jan-2019 09:54:15 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[04-Jan-2019 09:54:22 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[04-Jan-2019 09:54:22 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[04-Jan-2019 09:54:25 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 09:54:25 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 09:54:31 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[04-Jan-2019 09:54:31 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[04-Jan-2019 09:54:39 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 09:54:39 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 09:54:45 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 09:54:45 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 09:55:35 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[04-Jan-2019 09:55:35 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[04-Jan-2019 09:55:43 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 09:55:43 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 09:56:05 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[04-Jan-2019 09:56:05 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[04-Jan-2019 09:56:35 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 09:56:35 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 09:56:39 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[04-Jan-2019 09:56:39 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[04-Jan-2019 09:56:53 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[04-Jan-2019 09:56:53 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[04-Jan-2019 09:56:55 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 09:56:55 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 09:58:11 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 09:58:11 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 09:58:38 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[04-Jan-2019 09:58:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[04-Jan-2019 10:02:10 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[04-Jan-2019 10:02:10 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[04-Jan-2019 10:04:18 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[04-Jan-2019 10:04:18 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[04-Jan-2019 10:05:43 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[04-Jan-2019 10:05:43 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[04-Jan-2019 10:06:37 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 10:06:37 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 10:06:40 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[04-Jan-2019 10:06:40 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[04-Jan-2019 10:06:45 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 10:06:45 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 10:07:05 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 10:07:05 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 10:07:07 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 10:07:07 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 10:09:35 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 10:09:35 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 10:09:49 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[04-Jan-2019 10:09:49 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[04-Jan-2019 10:09:54 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[04-Jan-2019 10:09:54 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[04-Jan-2019 10:09:57 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 10:09:57 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 10:10:32 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 10:10:32 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 10:11:57 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[04-Jan-2019 10:11:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[04-Jan-2019 10:12:04 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 10:12:04 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 10:12:52 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[04-Jan-2019 10:12:52 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[04-Jan-2019 10:13:15 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 10:13:15 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 10:13:48 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 10:13:48 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 11:30:04 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[04-Jan-2019 11:30:04 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 11:30:04 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 12:42:42 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[04-Jan-2019 12:42:42 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[04-Jan-2019 12:42:42 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[04-Jan-2019 12:43:02 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[04-Jan-2019 12:43:02 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 12:43:02 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 12:44:25 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[04-Jan-2019 12:44:25 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[04-Jan-2019 12:44:25 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 23
+[04-Jan-2019 12:44:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[04-Jan-2019 12:45:53 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[04-Jan-2019 12:45:53 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 12:45:53 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 12:46:14 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[04-Jan-2019 12:46:14 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[04-Jan-2019 12:46:22 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 12:46:22 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 12:48:46 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 12:48:46 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 12:49:47 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 12:49:47 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 12:50:23 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 12:50:23 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 12:50:26 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 12:50:26 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:04:52 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:04:52 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:05:27 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:05:27 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:05:54 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:05:54 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:07:53 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:07:53 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:08:02 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:08:02 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:10:08 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:10:08 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:10:23 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:10:23 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:10:32 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:10:32 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:27:53 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:27:53 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:28:03 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:28:03 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:28:26 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:28:26 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:29:17 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:29:17 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:29:32 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:29:32 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:29:39 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:29:39 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:29:49 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:29:49 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:29:52 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:29:52 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:30:15 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:30:15 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:31:00 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:31:00 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:31:07 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:31:07 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:32:01 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:32:01 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:32:03 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:32:03 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:32:33 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:32:33 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:48:46 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:48:46 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:49:15 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:49:15 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:49:29 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:49:29 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:49:55 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:49:55 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:50:36 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[04-Jan-2019 13:50:36 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[04-Jan-2019 13:50:36 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[04-Jan-2019 13:50:37 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:50:37 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:50:50 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:50:50 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:51:03 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:51:03 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:51:25 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:51:25 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:51:31 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[04-Jan-2019 13:51:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[04-Jan-2019 13:51:36 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:51:36 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:51:43 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:51:43 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:52:20 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[04-Jan-2019 13:52:20 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[04-Jan-2019 13:52:33 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:52:33 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:52:33 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 13:52:33 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 13:52:35 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:52:35 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:52:50 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[04-Jan-2019 13:52:50 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[04-Jan-2019 13:52:59 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 13:52:59 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 13:53:04 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:53:04 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:53:20 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:53:20 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:53:39 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:53:39 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:53:49 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:53:49 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:54:03 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:54:03 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:54:26 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 13:54:26 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 13:56:20 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 13:56:20 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 13:56:39 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 13:56:39 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 14:11:16 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[04-Jan-2019 14:11:16 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[04-Jan-2019 14:11:21 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 14:11:21 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 14:16:21 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 14:16:21 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 14:21:47 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 14:21:47 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 14:21:49 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[04-Jan-2019 14:21:49 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[04-Jan-2019 14:22:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/data-pasien.php on line 52
+[04-Jan-2019 14:24:19 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 14:24:19 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 14:25:00 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 14:25:00 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 14:25:03 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 14:25:03 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 14:33:08 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[04-Jan-2019 14:33:08 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[04-Jan-2019 14:33:32 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 14:33:32 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 14:33:49 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 14:33:49 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 14:35:09 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[04-Jan-2019 14:35:09 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[04-Jan-2019 14:36:24 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[04-Jan-2019 14:36:24 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[04-Jan-2019 14:43:55 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[04-Jan-2019 14:43:55 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[04-Jan-2019 14:44:10 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 14:44:10 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 14:55:21 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 14:55:21 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 15:10:32 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[04-Jan-2019 15:10:32 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[04-Jan-2019 15:10:32 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[04-Jan-2019 15:10:53 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[04-Jan-2019 15:10:53 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[04-Jan-2019 15:48:08 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 15:48:08 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 16:14:20 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[04-Jan-2019 16:14:20 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 16:14:20 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 16:14:31 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[04-Jan-2019 16:14:31 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[04-Jan-2019 17:45:54 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[04-Jan-2019 17:45:54 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[04-Jan-2019 17:45:54 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[04-Jan-2019 18:41:41 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[04-Jan-2019 19:07:57 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[04-Jan-2019 19:07:57 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[04-Jan-2019 19:07:57 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[04-Jan-2019 19:08:07 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[04-Jan-2019 19:08:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[05-Jan-2019 08:38:22 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[05-Jan-2019 08:38:34 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[05-Jan-2019 08:38:34 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[05-Jan-2019 08:47:43 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[05-Jan-2019 08:47:43 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[05-Jan-2019 09:35:58 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[05-Jan-2019 09:35:58 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[05-Jan-2019 09:52:08 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[05-Jan-2019 09:52:08 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[05-Jan-2019 09:52:15 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[05-Jan-2019 09:52:15 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[05-Jan-2019 09:53:20 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[05-Jan-2019 09:53:20 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[05-Jan-2019 09:53:33 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[05-Jan-2019 09:53:33 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[05-Jan-2019 09:53:45 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[05-Jan-2019 09:53:45 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[05-Jan-2019 09:57:45 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[05-Jan-2019 09:57:45 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[05-Jan-2019 09:57:45 Asia/Jakarta] PHP Notice:  Undefined variable: _REUEST in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 62
+[05-Jan-2019 09:58:11 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[05-Jan-2019 09:58:11 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[05-Jan-2019 09:58:11 Asia/Jakarta] PHP Notice:  Undefined variable: _REUEST in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 62
+[05-Jan-2019 09:58:35 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[05-Jan-2019 09:58:35 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[05-Jan-2019 09:58:35 Asia/Jakarta] PHP Notice:  Undefined variable: _REUEST in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 63
+[05-Jan-2019 09:58:41 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[05-Jan-2019 09:58:41 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[05-Jan-2019 09:58:41 Asia/Jakarta] PHP Notice:  Undefined variable: _REUEST in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 63
+[05-Jan-2019 09:58:46 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[05-Jan-2019 09:58:46 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[05-Jan-2019 09:58:46 Asia/Jakarta] PHP Notice:  Undefined variable: _REUEST in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 63
+[05-Jan-2019 10:03:26 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[05-Jan-2019 10:03:26 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[05-Jan-2019 10:03:26 Asia/Jakarta] PHP Notice:  Undefined variable: _REUEST in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 63
+[05-Jan-2019 10:03:29 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[05-Jan-2019 10:03:29 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[05-Jan-2019 10:03:29 Asia/Jakarta] PHP Notice:  Undefined variable: _REUEST in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 63
+[05-Jan-2019 10:03:45 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[05-Jan-2019 10:03:45 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[05-Jan-2019 10:05:12 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[05-Jan-2019 10:05:12 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[05-Jan-2019 10:06:20 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[05-Jan-2019 10:06:20 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[05-Jan-2019 10:08:05 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[05-Jan-2019 10:08:05 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[05-Jan-2019 10:38:22 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[05-Jan-2019 10:38:22 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[05-Jan-2019 10:57:39 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[05-Jan-2019 10:57:39 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[05-Jan-2019 11:02:03 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[05-Jan-2019 11:02:03 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[05-Jan-2019 11:13:38 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[05-Jan-2019 11:13:38 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[05-Jan-2019 11:14:36 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[05-Jan-2019 11:14:36 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[05-Jan-2019 11:39:50 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[05-Jan-2019 12:40:41 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[05-Jan-2019 12:40:41 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[05-Jan-2019 12:40:41 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[05-Jan-2019 12:40:41 Asia/Jakarta] PHP Notice:  Undefined variable: tb in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 153
+[05-Jan-2019 12:40:41 Asia/Jakarta] PHP Notice:  Undefined variable: bb in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 161
+[05-Jan-2019 12:40:41 Asia/Jakarta] PHP Notice:  Undefined variable: goldar in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 194
+[05-Jan-2019 12:40:41 Asia/Jakarta] PHP Notice:  Undefined variable: rhesus in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 217
+[05-Jan-2019 12:41:47 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[05-Jan-2019 13:35:19 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[05-Jan-2019 13:35:19 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[05-Jan-2019 13:35:19 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 23
+[05-Jan-2019 13:35:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[05-Jan-2019 13:36:01 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[05-Jan-2019 13:36:01 Asia/Jakarta] PHP Notice:  Undefined index: data in /home/chas9197/public_html/poliklinik/admin/data-promotif-all.php on line 8
+[05-Jan-2019 13:37:29 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[05-Jan-2019 13:37:29 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[05-Jan-2019 13:37:29 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[05-Jan-2019 13:41:05 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[05-Jan-2019 13:41:05 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[05-Jan-2019 13:41:05 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[05-Jan-2019 13:41:05 Asia/Jakarta] PHP Notice:  Undefined index: data in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 63
+[05-Jan-2019 13:41:05 Asia/Jakarta] PHP Notice:  Undefined variable: tb in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 153
+[05-Jan-2019 13:41:05 Asia/Jakarta] PHP Notice:  Undefined variable: bb in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 161
+[05-Jan-2019 13:41:05 Asia/Jakarta] PHP Notice:  Undefined variable: goldar in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 194
+[05-Jan-2019 13:41:05 Asia/Jakarta] PHP Notice:  Undefined variable: rhesus in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 217
+[05-Jan-2019 16:02:06 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[05-Jan-2019 16:02:06 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[05-Jan-2019 16:02:06 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[06-Jan-2019 02:08:20 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[06-Jan-2019 02:08:20 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[06-Jan-2019 02:08:31 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[06-Jan-2019 02:08:31 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[06-Jan-2019 02:08:38 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[06-Jan-2019 02:08:38 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[06-Jan-2019 02:18:22 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[06-Jan-2019 02:19:08 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[06-Jan-2019 02:19:08 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[06-Jan-2019 02:19:08 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[06-Jan-2019 11:25:41 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[06-Jan-2019 11:25:41 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[06-Jan-2019 11:25:41 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[06-Jan-2019 11:25:41 Asia/Jakarta] PHP Notice:  Undefined index: data in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 63
+[06-Jan-2019 11:25:41 Asia/Jakarta] PHP Notice:  Undefined variable: tb in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 153
+[06-Jan-2019 11:25:41 Asia/Jakarta] PHP Notice:  Undefined variable: bb in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 161
+[06-Jan-2019 11:25:41 Asia/Jakarta] PHP Notice:  Undefined variable: goldar in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 194
+[06-Jan-2019 11:25:41 Asia/Jakarta] PHP Notice:  Undefined variable: rhesus in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 217
+[06-Jan-2019 12:59:06 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[06-Jan-2019 12:59:09 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[06-Jan-2019 12:59:09 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[06-Jan-2019 12:59:09 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[06-Jan-2019 13:00:34 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[06-Jan-2019 13:00:34 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[06-Jan-2019 13:00:34 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[06-Jan-2019 13:00:34 Asia/Jakarta] PHP Notice:  Undefined index: data in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 63
+[06-Jan-2019 13:00:34 Asia/Jakarta] PHP Notice:  Undefined variable: tb in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 153
+[06-Jan-2019 13:00:34 Asia/Jakarta] PHP Notice:  Undefined variable: bb in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 161
+[06-Jan-2019 13:00:34 Asia/Jakarta] PHP Notice:  Undefined variable: goldar in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 194
+[06-Jan-2019 13:00:34 Asia/Jakarta] PHP Notice:  Undefined variable: rhesus in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 217
+[06-Jan-2019 13:00:39 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[06-Jan-2019 13:00:39 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[06-Jan-2019 13:00:39 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 23
+[06-Jan-2019 13:00:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[06-Jan-2019 13:00:54 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[06-Jan-2019 13:00:54 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[06-Jan-2019 13:00:54 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[06-Jan-2019 13:00:59 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[06-Jan-2019 13:00:59 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[06-Jan-2019 13:00:59 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[06-Jan-2019 13:41:01 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[06-Jan-2019 13:53:32 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[06-Jan-2019 17:04:03 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[06-Jan-2019 17:04:03 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[06-Jan-2019 17:04:03 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[06-Jan-2019 17:04:03 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[06-Jan-2019 17:04:03 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[06-Jan-2019 17:04:03 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 23
+[06-Jan-2019 17:04:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[06-Jan-2019 17:10:04 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[06-Jan-2019 17:10:04 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[06-Jan-2019 17:10:04 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[06-Jan-2019 17:27:51 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[06-Jan-2019 17:27:51 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[06-Jan-2019 17:27:51 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[06-Jan-2019 17:27:51 Asia/Jakarta] PHP Notice:  Undefined index: data in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 63
+[06-Jan-2019 17:27:51 Asia/Jakarta] PHP Notice:  Undefined variable: tb in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 153
+[06-Jan-2019 17:27:51 Asia/Jakarta] PHP Notice:  Undefined variable: bb in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 161
+[06-Jan-2019 17:27:51 Asia/Jakarta] PHP Notice:  Undefined variable: goldar in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 194
+[06-Jan-2019 17:27:51 Asia/Jakarta] PHP Notice:  Undefined variable: rhesus in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 217
+[06-Jan-2019 20:23:34 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[06-Jan-2019 20:23:34 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[06-Jan-2019 20:25:53 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[06-Jan-2019 20:25:53 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[06-Jan-2019 20:25:57 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[06-Jan-2019 20:25:57 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[06-Jan-2019 22:24:39 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[06-Jan-2019 22:24:39 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[06-Jan-2019 22:24:39 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[06-Jan-2019 23:32:34 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[06-Jan-2019 23:35:24 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[06-Jan-2019 23:35:24 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[06-Jan-2019 23:35:24 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[07-Jan-2019 09:47:10 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[07-Jan-2019 09:47:10 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[07-Jan-2019 09:47:10 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 23
+[07-Jan-2019 09:47:10 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[07-Jan-2019 13:05:35 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[07-Jan-2019 13:05:35 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 4
+[07-Jan-2019 13:05:35 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/rehabilitatif.php on line 5
+[07-Jan-2019 22:51:23 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[07-Jan-2019 22:51:43 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[07-Jan-2019 22:51:43 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 4
+[07-Jan-2019 22:51:43 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/kuratif.php on line 5
+[07-Jan-2019 22:52:31 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[07-Jan-2019 22:52:31 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[07-Jan-2019 22:52:31 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[07-Jan-2019 22:52:31 Asia/Jakarta] PHP Notice:  Undefined variable: tb in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 153
+[07-Jan-2019 22:52:31 Asia/Jakarta] PHP Notice:  Undefined variable: bb in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 161
+[07-Jan-2019 22:52:31 Asia/Jakarta] PHP Notice:  Undefined variable: goldar in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 194
+[07-Jan-2019 22:52:31 Asia/Jakarta] PHP Notice:  Undefined variable: rhesus in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 217
+[08-Jan-2019 12:59:21 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[08-Jan-2019 12:59:21 Asia/Jakarta] PHP Notice:  Undefined index: data in /home/chas9197/public_html/poliklinik/admin/data-promotif-all.php on line 8
+[08-Jan-2019 13:25:16 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[08-Jan-2019 13:25:16 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[08-Jan-2019 13:25:21 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[08-Jan-2019 13:25:21 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[08-Jan-2019 13:25:54 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[08-Jan-2019 13:25:54 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[08-Jan-2019 13:32:19 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[08-Jan-2019 13:32:22 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[08-Jan-2019 13:32:22 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 4
+[08-Jan-2019 13:32:22 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/pasien-baru.php on line 5
+[08-Jan-2019 13:32:23 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[08-Jan-2019 13:32:25 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[08-Jan-2019 13:32:25 Asia/Jakarta] PHP Notice:  A session had already been started - ignoring session_start() in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 22
+[08-Jan-2019 13:32:25 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 23
+[08-Jan-2019 13:32:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/chas9197/public_html/poliklinik/admin/panel-user.php on line 25
+[08-Jan-2019 13:40:18 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[08-Jan-2019 13:40:18 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[08-Jan-2019 13:57:44 Asia/Jakarta] PHP Notice:  Undefined index: nama in /home/chas9197/public_html/poliklinik/admin/sidebar.php on line 13
+[08-Jan-2019 13:57:44 Asia/Jakarta] PHP Notice:  Undefined index: id in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 4
+[08-Jan-2019 13:57:44 Asia/Jakarta] PHP Notice:  Undefined index: no in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 5
+[08-Jan-2019 13:57:44 Asia/Jakarta] PHP Notice:  Undefined index: data in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 63
+[08-Jan-2019 13:57:44 Asia/Jakarta] PHP Notice:  Undefined variable: tb in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 153
+[08-Jan-2019 13:57:44 Asia/Jakarta] PHP Notice:  Undefined variable: bb in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 161
+[08-Jan-2019 13:57:44 Asia/Jakarta] PHP Notice:  Undefined variable: goldar in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 194
+[08-Jan-2019 13:57:44 Asia/Jakarta] PHP Notice:  Undefined variable: rhesus in /home/chas9197/public_html/poliklinik/admin/promotif-preventiv.php on line 217
